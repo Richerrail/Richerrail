@@ -47,10 +47,10 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 
 <p align="center">
   <a href="https://github.com/Richerrail/NOM_DU_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Richerrail&repo=NOM_DU_REPO_1&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Projet 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Richerrail&repo=NOM_DU_REPO_1&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d">
   </a>
   <a href="https://github.com/Richerrail/NOM_DU_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Richerrail&repo=NOM_DU_REPO_2&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Projet 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Richerrail&repo=NOM_DU_REPO_2&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d">
   </a>
 </p>
 
@@ -59,8 +59,8 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 📊 Stats de Guerre
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richerrail&show_icons=true&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richerrail&layout=compact&theme=dark&bg_color=0d1117&title_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Richerrail&show_icons=true&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richerrail&layout=compact&theme=dark&bg_color=0d1117&title_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Langs">
 </p>
 
 ---
@@ -76,7 +76,7 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Richerrail&theme=dark&background=0d1117&border=30363d&stroke=e25822&ring=e25822&fire=e25822&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Streak">
+  <img src="https://streak-stats.demolab.com/?user=Richerrail&theme=dark&background=0d1117&border=30363d&stroke=e25822&ring=e25822&fire=e25822&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9" alt="Streak">
 </p>
 
 ---
@@ -103,7 +103,7 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 🎬 Mode Visiteur
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=e25822&center=true&vCenter=true&width=600&lines=Bienvenue+dans+la+forge.;Prépare-toi+à+compiler.;Le+code+n'attend+personne.;Forge+ton+destin." alt="Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=e25822&center=true&vCenter=true&width=600&lines=Bienvenue+dans+la+forge.;Prépare-toi+pour+l'épique." alt="Typing">
 </p>
 
 ---
