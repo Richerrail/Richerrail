@@ -59,8 +59,8 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 📊 Stats de Guerre
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richerrail&show_icons=true&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richerrail&layout=compact&theme=dark&bg_color=0d1117&title_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=Richerrail&show_icons=true&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" al[...]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richerrail&layout=compact&theme=dark&bg_color=0d1117&title_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Langs[...]
 </p>
 
 ---
@@ -76,7 +76,7 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Richerrail&theme=dark&background=0d1117&border=30363d&stroke=e25822&ring=e25822&fire=e25822&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9" alt="Streak">
+  <img src="https://streak-stats.demolab.com/?user=Richerrail&theme=dark&background=0d1117&border=30363d&stroke=e25822&ring=e25822&fire=e25822&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=[...]
 </p>
 
 ---
@@ -103,7 +103,7 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 🎬 Mode Visiteur
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=e25822&center=true&vCenter=true&width=600&lines=Bienvenue+dans+la+forge.;Prépare-toi+pour+l'épique." alt="Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=e25822&center=true&vCenter=true&width=600&lines=Bienvenue+dans+la+forge.;Prépar[...]
 </p>
 
 ---
@@ -114,4 +114,12 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Richerrail&color=e25822&style=flat-square" alt="Vues">
+</p>
+
+---
+
+## Soutenez le projet
+
+<p align="center">
+  [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/richerrailk)
 </p>
