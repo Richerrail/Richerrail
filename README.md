@@ -59,8 +59,8 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 📊 Stats de Guerre
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richerrail&show_icons=true&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" al[...]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richerrail&layout=compact&theme=dark&bg_color=0d1117&title_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Langs[...]
+  <img src="https://github-readme-stats.vercel.app/api?username=Richerrail&show_icons=true&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" al[...[...]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richerrail&layout=compact&theme=dark&bg_color=0d1117&title_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Langs[...[...]
 </p>
 
 ---
@@ -76,7 +76,7 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Richerrail&theme=dark&background=0d1117&border=30363d&stroke=e25822&ring=e25822&fire=e25822&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=[...]
+  <img src="https://streak-stats.demolab.com/?user=Richerrail&theme=dark&background=0d1117&border=30363d&stroke=e25822&ring=e25822&fire=e25822&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=[...[...]
 </p>
 
 ---
@@ -121,5 +121,8 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## Soutenez le projet
 
 <p align="center">
-  [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/richerrailk)
+  <a href="https://www.buymeacoffee.com/richerrailk" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
+  </a>
 </p>
+
