@@ -52,6 +52,9 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
   <a href="https://github.com/Richerrail/typehere.git">
     <img src="https://github.com/Richerrail/Richerrail/blob/main/typehere.jpg">
   </a>
+  <a href="https://github.com/Richerrail/zer0-ghost.git">
+    <img src="https://github.com/Richerrail/Richerrail/blob/main/zer0-ghost.jpg">
+  </a>
 </p>
 
 ---
@@ -59,8 +62,8 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 📊 Stats de Guerre
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richerrail&show_icons=true&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" al[...[...]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richerrail&layout=compact&theme=dark&bg_color=0d1117&title_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Langs[...[...]
+  <img src="https://github-readme-stats.vercel.app/api?username=Richerrail&show_icons=true&theme=dark&bg_color=0d1117&title_color=e25822&icon_color=e25822&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richerrail&layout=compact&theme=dark&bg_color=0d1117&title_color=e25822&text_color=c9d1d9&border_color=30363d" alt="Langs">
 </p>
 
 ---
@@ -76,7 +79,7 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Richerrail&theme=dark&background=0d1117&border=30363d&stroke=e25822&ring=e25822&fire=e25822&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=[...[...]
+  <img src="https://streak-stats.demolab.com/?user=Richerrail&theme=dark&background=0d1117&border=30363d&stroke=e25822&ring=e25822&fire=e25822&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=CURRENT%20STREAK" alt="Streak">
 </p>
 
 ---
@@ -103,7 +106,7 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
 ## 🎬 Mode Visiteur
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=e25822&center=true&vCenter=true&width=600&lines=Bienvenue+dans+la+forge.;Prépar[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=e25822&center=true&vCenter=true&width=600&lines=Bienvenue+dans+la+forge.;Préparez-vous+à+être+impressionné." alt="Typing SVG">
 </p>
 
 ---
@@ -125,4 +128,3 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
   </a>
 </p>
-
