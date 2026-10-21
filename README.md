@@ -52,7 +52,7 @@ Je transforme le code brut en systèmes légendaires. Chaque ligne est un coup d
   <a href="https://github.com/Richerrail/typehere.git">
     <img src="https://github.com/Richerrail/Richerrail/blob/main/typehere.jpg">
   </a>
-  <a href="https://github.com/Richerrail/zer0-ghost.git">
+  <a href="https://github.com/Richerrail/zer0gh0st.git">
     <img src="https://github.com/Richerrail/Richerrail/blob/main/zer0-ghost.jpg">
   </a>
 </p>
